@@ -1,0 +1,3 @@
+include ':croppertest'
+include ':cropper'
+rootProject.name = "cropper"
